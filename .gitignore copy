@@ -1,0 +1,5 @@
+# Ignore Terraform
+.terraform/
+
+# Ignore Node.js dependencies
+node_modules/
